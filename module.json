@@ -1,0 +1,13 @@
+{
+  "name": "Shifts",
+  "alias": "shifts",
+  "description": "",
+  "keywords": [],
+  "order": 0,
+  "providers": [
+    "Modules\\Shifts\\Providers\\ShiftServiceProvider"
+  ],
+  "aliases": {},
+  "files": [],
+  "requires": []
+}

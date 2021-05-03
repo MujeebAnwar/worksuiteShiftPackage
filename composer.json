@@ -1,0 +1,22 @@
+{
+    "name": "worksuite/shift",
+    "type": "laravel",
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\Shifts\\Provides\\ShiftServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Shifts\\": ""
+        }
+    }
+}
